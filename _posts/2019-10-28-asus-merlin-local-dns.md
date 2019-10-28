@@ -12,11 +12,13 @@ comments: true
 进入系统管理 - 系统设置 - SSH 连接，启用SSH连接。
 
 # 设置hosts
-```ssh admin@192.168.50.1
-cd /jffs```
+SSH连接路由器 ```ssh admin@192.168.50.1```
+进入目录 `cd /jffs`
 新建文件 `dnsmasq.conf.add` 并写入内容
-```addn-hosts=/jffs/configs/hosts
-vi /jffs/configs/hosts```
+```
+addn-hosts=/jffs/configs/hosts
+```
+编辑文件`vi /jffs/configs/hosts`
 写入内容
 ```192.168.0.1 www.example.com
 ```
