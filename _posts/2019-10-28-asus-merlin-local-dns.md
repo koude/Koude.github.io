@@ -13,14 +13,17 @@ comments: true
 
 # 设置hosts
 SSH连接路由器 ```ssh admin@192.168.50.1```
+
 进入目录 `cd /jffs`
+
 新建文件 `dnsmasq.conf.add` 并写入内容
 ```
 addn-hosts=/jffs/configs/hosts
 ```
-编辑文件`vi /jffs/configs/hosts`
+编辑文件`vi /jffs/configs/hosts` 
 写入内容
-```192.168.0.1 www.example.com
+```
+192.168.0.1 www.example.com
 ```
 
 # 重启 DNS 服务
