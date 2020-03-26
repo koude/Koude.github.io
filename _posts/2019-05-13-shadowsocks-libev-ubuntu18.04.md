@@ -6,7 +6,7 @@ categories:
 tags: shadowsocks 科学上网
 ---
 
-> Shadowsocks不多介绍
+> Shadowsocks流量特征可能已被GFW识别，不建议继续使用。
 
 <!-- more -->
 
