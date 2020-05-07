@@ -1,16 +1,16 @@
 ---
-title: NUC8i5BEH 黑苹果
+title: NUC8i5BEH 黑苹果过程全记录（未完待续）
 description: NUC8i5BEH 安装黑苹果过程全记录
 categories:
  - 教程
 tags: 黑苹果 hackintosh
 ---
 
-> NUC8i5BEH 安装黑苹果
+
 
 <!-- more -->
 
-## NUC8i5BEH 黑苹果过程全记录（未完待续）
+## 
 # 硬件准备
 
 #### 采购硬件如下：
